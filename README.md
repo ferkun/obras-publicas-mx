@@ -1,2 +1,2 @@
 # obras-publicas-mx
-Sistema open source de obras publicas.
+Sistema open source de obras públicas.
