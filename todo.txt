@@ -1,0 +1,5 @@
+# Tecnologia a utilizar
+# Framework Backend, Framework Front End.
+# Deberá ser mono-dependencia.
+# Aislar Modelo de Skins.
+# Modelos UML para Obras y Estimaciones.
